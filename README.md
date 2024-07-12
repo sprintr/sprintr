@@ -2,7 +2,7 @@
 
 I am Amin Ullah, an enthusiastic software architect with over a decade of experience in the field of software development.
 
-Currently, I serve as the Chief Technology Officer (CTO) at ClassNotes. My passion lies in leveraging technology to address tangible challenges and to enhance accessibility in education for people from all walks of life.
+Currently, I serve as a Software Architect at ClassNotes. My passion lies in leveraging technology to address tangible challenges and to enhance accessibility in education for people from all walks of life.
 
 During my leisure hours, I actively contribute to open-source projects and indulge in mountain biking.
 
@@ -37,16 +37,14 @@ During my leisure hours, I actively contribute to open-source projects and indul
 
 I'll bid you farewell with a quote from Monty Python.
 
-> **King of Swamp Castle:** You only killed the bride’s father, you know.
+> **King Arthur:** “Look, you stupid b***ard, you’ve got no arms left!”
+> 
+> **Black Knight:** “Yes I have.”
+> 
+> **King Arthur:** “Look!”
+> 
+> **Black Knight:** “It’s just a flesh wound…”
 >
-> **Sir Lancelot:** I didn’t mean to.
->
-> **King of Swamp Castle:** Didn’t mean to? You put your sword right through his head.
->
-> **Sir Lancelot:** Oh dear… is he all right?
->
-> *moments later*
->
-> **King of Swamp Castle:** Please. This is supposed to be a happy occasion. Let’s not bicker and argue over who killed who…
+> [https://www.youtube.com/watch?v=wHtywcyyno0](https://www.youtube.com/watch?v=wHtywcyyno0)
 
 👨🏻‍💻 🚵🏻‍♂️ ❤
